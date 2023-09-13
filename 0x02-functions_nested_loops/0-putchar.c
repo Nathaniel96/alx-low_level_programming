@@ -2,9 +2,8 @@
 
 /**
  * main - main function listed _putchar
- * Return: 0 at end
+ * Return: 0
  */
-
 
 int main(void)
 {
