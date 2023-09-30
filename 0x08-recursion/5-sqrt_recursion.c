@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * sqrt_a -  returns the natural square root of a number.
- * @n: number to calculate the square root
- * @i: the iterator
+ * @x: number to calculate the square root
+ * @y: the iterator
  * Return: square root or -1
  */
 
