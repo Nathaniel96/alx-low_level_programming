@@ -11,6 +11,8 @@ int _sqrt(int x, int y);
 int is_prime_number(int n);
 int prime_a(int x, int y);
 int is_palindrome(char *s);
+int strlen_palindrome(char *s);
+int compare_string(char *s, int left, int rigth);
 int wildcmp(char *s1, char *s2);
 
 #endif
